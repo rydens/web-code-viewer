@@ -1,0 +1,25 @@
+{
+  "name": "web-code-viewer",
+  "version": "1.0.0",
+  "description": "Simple web-based code *viewer* for sharing and such.",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rydens/web-code-viewer.git"
+  },
+  "keywords": [
+    "web",
+    "code",
+    "viewer",
+    "ace"
+  ],
+  "author": "Ryan Densmore",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rydens/web-code-viewer/issues"
+  },
+  "homepage": "https://github.com/rydens/web-code-viewer#readme"
+}
